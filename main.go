@@ -1,5 +1,9 @@
 package main
 
-func main(){
-	print("A galera da live e braba e vai conseguir trampo")
+import "github.com/thallesfabian/gooportunis.git/router"
+
+func main() {
+	
+	// Initialize Router
+	router.Initialize()
 }
